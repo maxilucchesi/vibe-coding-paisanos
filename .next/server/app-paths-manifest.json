@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/ping-db/route": "app/api/ping-db/route.js",
+  "/api/logs/route": "app/api/logs/route.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/add-book-with-search/page": "app/add-book-with-search/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/add-book/page": "app/add-book/page.js",
+  "/favorites/page": "app/favorites/page.js",
+  "/diagnostics/page": "app/diagnostics/page.js",
+  "/books/page": "app/books/page.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/edit-book/[id]/page": "app/edit-book/[id]/page.js"
+}

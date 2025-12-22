@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/ping-db/route": "/api/ping-db",
+  "/api/logs/route": "/api/logs",
+  "/auth/callback/route": "/auth/callback",
+  "/add-book-with-search/page": "/add-book-with-search",
+  "/admin/page": "/admin",
+  "/add-book/page": "/add-book",
+  "/favorites/page": "/favorites",
+  "/diagnostics/page": "/diagnostics",
+  "/books/page": "/books",
+  "/page": "/",
+  "/dashboard/page": "/dashboard",
+  "/edit-book/[id]/page": "/edit-book/[id]"
+}
